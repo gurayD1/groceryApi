@@ -1,5 +1,5 @@
-{
-    "results": [
+
+     [
         {
             "id": 631886,
             "title": "A Bag Pudding With Currants",
@@ -600,8 +600,5 @@
             "image": "https://spoonacular.com/recipeImages/644148-312x231.jpg",
             "imageType": "jpg"
         }
-    ],
-    "offset": 0,
-    "number": 100,
-    "totalResults": 1418
-}
+    ]
+
